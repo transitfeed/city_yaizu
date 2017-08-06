@@ -1,0 +1,4 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_text_color
+222127OWC,22212-7,大井川西部循環線,焼津市自主運行バス 大井川西部循環線,大井川庁舎を中心に大井川地区を８の字循環運行している路線です。,3,http://www.city.yaizu.lg.jp/g06-002/koukyou_koutuu/bus/jikokuhyou_rosen-shoukai.html,
+222127F8C,22212-7,焼津循環線,焼津市自主運行バス 焼津循環線,焼津駅を中心に焼津地区を８の字循環運行している路線です。,3,http://www.city.yaizu.lg.jp/g06-002/koukyou_koutuu/bus/rosenzu_rosen-shoukai.html,
+222127OYL,22212-7,大井川焼津線,焼津市自主運行バス 大井川焼津線,大井川庁舎から焼津市立病院を経由して焼津駅までを結ぶ路線です。,3,http://www.city.yaizu.lg.jp/g06-002/koukyou_koutuu/bus/jikokuhyou_rosen-shoukai.html,
